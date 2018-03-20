@@ -11,4 +11,5 @@
 
 int main(int argc, char *argv[])
 {
+	printf("program name is >>%s<<\n", argv[0]);
 }
